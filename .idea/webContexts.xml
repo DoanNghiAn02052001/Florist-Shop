@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/admin_template.tag" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/user_template.tag" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/about/about.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/about" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/sub_product/hoabo.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/sub_product" />
+      </map>
+    </option>
+  </component>
+</project>
